@@ -5,9 +5,7 @@ I am a Graduate Student at CSU Chico majoring in Computer Science. I am passiona
 
 ### 🔭 Have a look at my [website](https://rohitraut18.github.io/rohitraut.github.io/).
 
-
 ## ⚡ Tech Stack
-
 Here are a few things I've picked up along my learning journey. <br><br>
 <a href=""><img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="70" height="40"/></a>  <a style="background: white" href=""><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="70" height="40"/></a>  <a href=""><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="70" height="40"/></a>  <a href=""><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" width="70" height="40"/></a>  <a href=""><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" width="70" height="40"/></a>  <a href=""><img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" width="70" height="40"/></a>
 
