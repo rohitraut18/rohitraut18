@@ -30,7 +30,7 @@ Here are a few things I've picked up along my learning journey.
  ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-raut-81972a15b/) || [![mail](https://www.macworld.com/wp-content/uploads/2023/01/ios-mail-icon-100669537-orig-2.jpg?quality=50&strip=all)](mailto:rvr994@gmail.com) .
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-raut-81972a15b/) || [![mail](#EA4335)](mailto:rvr994@gmail.com) .
 
 
 
