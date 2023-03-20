@@ -11,7 +11,7 @@ I am a Graduate Student at CSU Chico majoring in Computer Science. I am passiona
 Here are a few things I've picked up along my learning journey.
 
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
   
  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![NestJS](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
@@ -30,7 +30,7 @@ Here are a few things I've picked up along my learning journey.
  ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-raut-81972a15b/) || [![mail](file:///C:/Users/rvr99/Desktop/gmail.svg)](mailto:rvr994@gmail.com) .
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-raut-81972a15b/) || <a href="mailto:rvr994@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" width="70" height="40"/></a>
 
 
 
