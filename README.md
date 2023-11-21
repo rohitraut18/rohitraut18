@@ -12,7 +12,3 @@ Here are a few things I've picked up along my learning journey. <br><br>
 
 ## 📫 Get in touch
 <a href="https://www.linkedin.com/in/rohit-raut-81972a15b/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="70" height="40"/></a> <a href="mailto:rvr994@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="70" height="40"/></a>
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rohitraut18/rohitraut18)
